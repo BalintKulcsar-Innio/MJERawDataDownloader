@@ -1,0 +1,10 @@
+.local/
+.entities/
+.templates/
+.tmh/
+.settings/
+.project/
+.object/
+.screenshots/
+.metadata
+.type
